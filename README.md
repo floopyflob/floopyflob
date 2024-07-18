@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning html and python
 - 💞️ I’m looking to collaborate on whatever comes to mind
 - 📫 How to reach me: my main email: floopyflob@gmail.com, my ig acc: floopyflob
-- 🎧​ I also make music. You can follow me on my ig, yt or bandcamp, all of them are by my name: floopyflob! 😃​
 
 <!---
 floopyflob/floopyflob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
